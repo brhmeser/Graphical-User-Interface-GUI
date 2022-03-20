@@ -1,0 +1,10 @@
+C:\Users\krali\Desktop\proje\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\krali\Desktop\proje\PROJE\bin\Debug\PROJE.exe
+C:\Users\krali\Desktop\proje\PROJE\bin\Debug\PROJE.pdb
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.Form1.resources
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.exe
+C:\Users\krali\Desktop\proje\PROJE\obj\Debug\PROJE.pdb
